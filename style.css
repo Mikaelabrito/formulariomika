@@ -1,0 +1,88 @@
+    .escolha_div {
+        display: none;
+    }
+
+    button:hover {
+        cursor: pointer;
+    }
+
+    .inputs {
+        display: flex;
+    }
+
+    .campo {
+        display: none;
+        height:30px;
+    }
+    
+    .campo2 {
+        display: none;
+        width:600px; 
+        height:300px;
+    }
+    
+    .campo3 {
+        display: none;
+        width:600px; 
+        height:300px;
+    }
+
+    .wpcf7-textarea {
+        height: 150px;
+    }
+
+    .produto {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+     }
+
+    .produto2 {
+        display: none;
+    }
+
+    .produto3 {
+        display: none;
+    }
+
+    .produto4 {
+        display: none;
+    }
+
+    .produto5 {
+        display: none;
+    }
+
+    .produto6 {
+        display: none;
+    }
+
+    .produto7 {
+        display: none;
+    }
+
+    .produto8 {
+        display: none;
+    }
+
+    .produto9 {
+        display: none;
+    }
+
+    .produto10 {
+        display: none;
+    }
+
+     #add{
+        margin-left: 30px;
+        border-radius: 32px;
+        background-color: #006f99;
+        border: 0;
+        box-shadow: 5px 10px 15px 0 rgb(0 111 153 / 20%);
+        color: #ffffff;
+        font-family: Roboto;
+        font-size: 13px;
+        font-weight: 300;
+        letter-spacing: 1.4px;
+        padding: 5px 35px;
+     }
